@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pacto de sangre y amor
+
+This log tracks the cryptographic history and versioning for the song **Pacto de sangre y amor** (pacto-de-sangre-y-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T10:41:42.071054 | `v1` | `` | `281212aa948d63f09a269ba0cf542879b06e9df0b494fff0df997759739ea2fc` | `2026-06-15_pacto-de-sangre-y-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
