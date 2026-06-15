@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pacto-de-sangre-y-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Pacto de sangre y amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pacto-de-sangre-y-amor/) |
+| **Get License** | [Music Rights & Licensing for Pacto de sangre y amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pacto-de-sangre-y-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
